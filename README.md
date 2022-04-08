@@ -4,4 +4,4 @@
 
 오늘 익힌 내용을 기록합니다.
 
-been Migrated to https://sookyeongyeom.github.io/
+been Migrated to https://velog.io/@sookyeongyeom
