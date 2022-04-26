@@ -1,4 +1,4 @@
-# Today I Learned
+# 오늘의 나
 
 ### Since 2021.10.17
 
