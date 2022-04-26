@@ -2,6 +2,4 @@
 
 ### Since 2021.10.17
 
-오늘 익힌 내용을 기록합니다.
-
-been Migrated to https://velog.io/@sookyeongyeom
+일기, 조각지식, 공부내용정리, 진로고민 등 모든 메모를 이 곳에 정리합니다.
