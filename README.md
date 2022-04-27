@@ -10,3 +10,4 @@
 
 - [strcpy/strncpy는 왜 사용할까?](https://stujune-to-devjune.tistory.com/24)
 - [VS scanf 에러 해결 - 전처리문 추가](https://lureout.tistory.com/425)
+- [컴파일 과정 - 전처리, 컴파일, 어셈블, 링크](https://sublivan.tistory.com/6)
