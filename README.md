@@ -12,3 +12,4 @@
 - [VS scanf 에러 해결 - 전처리문 추가](https://lureout.tistory.com/425)
 - [컴파일 과정 - 전처리, 컴파일, 어셈블, 링크](https://sublivan.tistory.com/6)
 - [new와 malloc의 차이](https://jhtop93.tistory.com/3)
+- [문자열 복사하기 - 읽기 전용 메모리](https://dojang.io/mod/page/view.php?id=358)
