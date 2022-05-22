@@ -15,6 +15,7 @@
 - [문자열 복사하기 - 읽기 전용 메모리](https://dojang.io/mod/page/view.php?id=358)
 - [C++ 2차원 배열 동적할당](https://ya-ya.tistory.com/101)
 - [2차원 배열의 포인터](https://dojang.io/mod/page/view.php?id=312)
+- [헥사코드](https://m.blog.naver.com/dceye/50090287314)
 
 ### 오토마타
 
