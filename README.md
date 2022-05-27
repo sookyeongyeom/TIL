@@ -20,3 +20,7 @@
 ### 오토마타
 
 - [chelee - 오토마타 이론](https://bestowing.github.io/categories/#automata)
+
+### Computer Science
+
+- [M1 맥이 그렇게 빠른 이유](https://lunatk.github.io/2020/12/14/20201214-why-is-apple-m1-chip-so-fast/)
