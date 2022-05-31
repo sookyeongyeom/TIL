@@ -26,3 +26,4 @@
 - [M1 Mac](https://lunatk.github.io/2020/12/14/20201214-why-is-apple-m1-chip-so-fast/)
 - [Bash Shell Script](http://mug896.github.io/bash-shell/index.html)
 - [CPU Burst와 I/O Burst](https://velog.io/@zzarbttoo/OSCPU-SchedulingCPUIO-Bursts-SchedulerDispatcher-Scheduling-Algorithm-Algorithm-Evaluation)
+- [식사하는 철학자들](https://m.blog.naver.com/hirit808/221788147057)
