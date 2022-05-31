@@ -24,3 +24,4 @@
 ### Computer Science
 
 - [M1 맥이 그렇게 빠른 이유](https://lunatk.github.io/2020/12/14/20201214-why-is-apple-m1-chip-so-fast/)
+- [Bash Shell Script](http://mug896.github.io/bash-shell/index.html)
