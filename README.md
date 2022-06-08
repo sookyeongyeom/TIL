@@ -24,6 +24,10 @@
 - [2차원 배열의 포인터](https://dojang.io/mod/page/view.php?id=312)
 - [헥사코드](https://m.blog.naver.com/dceye/50090287314)
 
+### 정렬
+
+- [합병 정렬](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
+
 ### 오토마타
 
 - [chelee - 오토마타 이론](https://bestowing.github.io/categories/#automata)
