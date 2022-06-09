@@ -23,6 +23,8 @@
 - [C++ 2차원 배열 동적할당](https://ya-ya.tistory.com/101)
 - [2차원 배열의 포인터](https://dojang.io/mod/page/view.php?id=312)
 - [헥사코드](https://m.blog.naver.com/dceye/50090287314)
+- [auto 키워드](https://blockdmask.tistory.com/384)
+- [range based for 문](https://blockdmask.tistory.com/319)
 
 ### 자료구조
 
