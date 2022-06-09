@@ -30,6 +30,10 @@
 
 - [힙](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
+### 알고리즘
+
+- [시간복잡도/공간복잡도 계산](https://yoongrammer.tistory.com/79)
+
 ### 정렬
 
 - [합병 정렬](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
