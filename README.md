@@ -42,7 +42,7 @@
 
 ### 오토마타
 
-- [chelee - 오토마타 이론](https://bestowing.github.io/categories/#automata)
+- [chelee 오토마타](https://bestowing.github.io/categories/#automata)
 
 ### Computer Science
 
